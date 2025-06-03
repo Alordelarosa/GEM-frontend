@@ -163,7 +163,7 @@ function RegistrarEmpleado() {
 
     return (
         <div className="flex justify-center p-8">
-            <div className="w-96 bg-white p-6 shadow-lg rounded-lg">
+            <div className="w-96 bg-blue-50 p-6 shadow-lg rounded-lg">
                 <h2 className="text-2xl font-bold text-teal-600 mb-4 text-center">
                     {id ? "Actualizar empleado" : "Registrar empleado"}
                 </h2>
